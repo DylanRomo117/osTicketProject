@@ -41,8 +41,8 @@ This tutorial outlines the prerequisites and installation of the open-source hel
 <img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
-1.Install the web server (Apache/Nginx) and PHP.
-2.Install MySQL/MariaDB and create a database.
+1.Install the web server (Apache/Nginx) and PHP.<>
+2.Install MySQL/MariaDB and create a database.<>
 3.Download and extract osTicket to the web server’s root directory.
 4.Set the appropriate file permissions for the osTicket directory.
 5.Run the web-based installer via your browser (e.g., http://yourdomain.com).
