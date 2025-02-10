@@ -38,31 +38,37 @@ This tutorial outlines the prerequisites and installation of the open-source hel
 <h2>Installation Steps</h2>
 
 <p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+1.Install the web server (Apache/Nginx) and PHP.
 </p>
+<br />
+
 <p>
-1.Install the web server (Apache/Nginx) and PHP.<>
-2.Install MySQL/MariaDB and create a database.<>
+2.Install MySQL/MariaDB and create a database.
+</p>
+<br />
+
+<p>
 3.Download and extract osTicket to the web server’s root directory.
+</p>
+<br />
+
+<p>
 4.Set the appropriate file permissions for the osTicket directory.
+</p>
+<br />
+
+<p>
 5.Run the web-based installer via your browser (e.g., http://yourdomain.com).
+</p>
+<br />
+
+<p>
 6.Configure the database and SMTP settings through the installer.
+</p>
+<br />
+
+<p>
 7.Complete the setup and start using osTicket!
 </p>
 <br />
 
-<p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
-</p>
-<p>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
-</p>
-<br />
-
-<p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
-</p>
-<p>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
-</p>
-<br />
