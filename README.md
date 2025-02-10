@@ -267,23 +267,104 @@ This tutorial outlines the prerequisites and installation of the open-source hel
 
 ![image](https://github.com/user-attachments/assets/19d203e0-f7e1-4df0-b7c4-42d4daa49853)
 
+<p>WE WILL NOW RENAME: ost-config.php <br />
+From: C:\inetpub\wwwroot\osTicket\include\ost-sampleconfig.php <br />
+To: C:\inetpub\wwwroot\osTicket\include\ost-config.php <br />
+ </p><br />
 
+ <p>and make sure osTicket has access to the file</p>
 
-<br />
+![image](https://github.com/user-attachments/assets/656d8bb7-ff15-45f4-ab11-50954739fc10)
 
-<p>
-8.Complete the setup and start using osTicket ///
-</p>
-<br />
-<br />
+![image](https://github.com/user-attachments/assets/7ffc009c-49d6-42ff-a4cf-39355c3585b5)
 
-<p>
-8.Complete the setup and start using osTicket ///
-</p>
-<br />
-<br />
+![image](https://github.com/user-attachments/assets/4aacd5cd-8653-46d0-a97b-9beb7270fcc6)
 
-<p>
-8.Complete the setup and start using osTicket ///
-</p>
-<br />
+![image](https://github.com/user-attachments/assets/0a0bc54d-1dec-4fb2-82c5-df94bfe83e12)
+
+![image](https://github.com/user-attachments/assets/97a10d44-280e-42f9-88f0-2cea99288fd7)
+
+ <p>Now we eill make sure osTicket has access to this NEW file</p>
+
+![image](https://github.com/user-attachments/assets/eaf53754-138e-4ca9-9a9e-05c43057d24b)
+
+![image](https://github.com/user-attachments/assets/9387b2d6-4d62-4efe-ae82-a96a3382813a)
+
+![image](https://github.com/user-attachments/assets/c009129b-cbe2-4445-8660-a3ce731d21a4)
+
+![image](https://github.com/user-attachments/assets/fca8122a-9090-41ef-a6b3-62bded5d9b6e)
+
+![image](https://github.com/user-attachments/assets/4734ba7f-4589-491b-8118-615f903a9958)
+
+![image](https://github.com/user-attachments/assets/918621c8-8535-4bb8-ab1f-aeda9cc97c27)
+
+![image](https://github.com/user-attachments/assets/b985a3d0-8823-4843-989b-0c06a2cfc08d)
+
+![image](https://github.com/user-attachments/assets/4a036e74-ad7f-4eb8-982a-2569b901b4f3)
+
+<p>NOT GOOD TO GIVE EVERYONE ACCESS BUT WE ARE DOING IT IN THIS PROJECT/p>
+
+![image](https://github.com/user-attachments/assets/18fb548c-314b-4d8b-a366-9e2491208fc1)
+
+![image](https://github.com/user-attachments/assets/c23a99a5-2705-496f-9690-11d2416c6c51)
+
+![image](https://github.com/user-attachments/assets/41bf5d46-dc90-4804-872b-780ceab483d9)
+
+ <p>Now we will continue our osTicket installation!</p>
+
+![image](https://github.com/user-attachments/assets/2277e02a-0873-448e-9572-de282c7a674f)
+
+<p>FIll out your information</p> 
+
+![image](https://github.com/user-attachments/assets/a09407e7-22b1-4fb2-a806-0f5371ca484c)
+
+<p>We now need to create an SQL data base for odTIcket to use. GO BACK to your installation folder to install HeidiSQL. </p> <br />
+<p>Open Heidi SQL</p><br />
+<p>Create a new session, root/root</p><br />
+<p>Connect to the session</p><br />
+<p>Create a database called “osTicket”</p><br />
+
+![image](https://github.com/user-attachments/assets/59525a70-baf5-47fb-b738-605b5e8e9196)
+
+![image](https://github.com/user-attachments/assets/1aaa6e1b-4731-48a8-851c-e911318e6b14)
+
+![image](https://github.com/user-attachments/assets/fbf06e17-e085-4fbb-bf39-4b8c9cdcd09d)
+
+![image](https://github.com/user-attachments/assets/e6c61f8f-9cb7-4a72-b622-3c1a1f3318fa)
+
+![image](https://github.com/user-attachments/assets/9b962c8e-2c3e-4f49-8f4a-b2da002410c1)
+
+![image](https://github.com/user-attachments/assets/75c1ab94-cced-4040-9719-f74f62cfb408)
+
+![image](https://github.com/user-attachments/assets/48eb12f2-2f26-4c62-8c9d-c786999bfde5)
+
+![image](https://github.com/user-attachments/assets/9730e9d6-21ec-45cd-a282-3cb1a120529b)
+
+<p>NOW WE WILL LOG INTO OUR ROOT ACCOUNT WE MADE FOR OUR BACKEND SQL</p> <br />
+<p>USERNAME: root PASSWORD: root (THIS IS MY ACCOUNT)</p>
+
+![image](https://github.com/user-attachments/assets/32a0a577-8142-405d-8aef-cfee4fd812e2)
+
+![image](https://github.com/user-attachments/assets/df8f6c9c-b212-4de2-9aaa-bd439943bc88)
+
+<p>WE WILL NOW CREAT A DATABASE CALLED osTicket</p>
+
+![image](https://github.com/user-attachments/assets/c3c91bcf-8d1a-4d03-8e36-4c8a61133518)
+
+![image](https://github.com/user-attachments/assets/960dca2e-e7a5-4363-b3c6-cd3bca57b1f7)
+
+![image](https://github.com/user-attachments/assets/3de03447-2620-4b93-80e9-779cba73767c)
+
+![image](https://github.com/user-attachments/assets/5c7a4369-e189-44c8-aea1-f2d900a81fe8)
+
+<p>We now Continue Setting up osTicket in the browser</p> <br />
+
+![image](https://github.com/user-attachments/assets/ecd74f64-aa3d-474a-b52b-bba8b3ef7f26)
+
+<p> INSTALL NOW!!!! </p>
+
+![image](https://github.com/user-attachments/assets/e76bf65f-d4ab-4c5d-b5de-85a153d9fae4)
+
+![image](https://github.com/user-attachments/assets/fe49288e-061c-4bdd-bc65-fb47282f4578)
+
+<p>Congrats you have now installed osTicket on your VM!!! </p>
